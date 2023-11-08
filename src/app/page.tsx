@@ -3,7 +3,7 @@ const IndexPage = () => {
     <main className="flex flex-col h-[100%] justify-center items-center">
 
       <div className="mx-auto mt-10">
-        <h2 className="fluorescent-text text-3xl md:text-6xl">
+        <h2 className="fluorescent-text text-center text-3xl md:text-6xl">
           HisCode Global
         </h2>
         <p className="fluorescent-text text-center mt-3 text-lg italic">creating the solutions you need</p>
